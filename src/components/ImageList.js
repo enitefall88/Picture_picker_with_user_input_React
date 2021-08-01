@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React from 'react'
 
 let ImageList = (props) => {
   console.log(props.images)
